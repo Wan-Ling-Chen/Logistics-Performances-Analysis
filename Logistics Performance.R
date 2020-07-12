@@ -1,4 +1,5 @@
 # The data is from shopee code league 2020
+# The detailed introduction :https://medium.com/data-room/measure-logistics-performance-in-ecommerce-with-r-example-3b74c9135dc
 
 # Create a empty dataframe
 late_delivery <- data.frame()
